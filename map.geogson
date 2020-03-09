@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0c71ec",
+        "fill": "#e8e8e8",
+        "stroke": "#0c71ec",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "popup-text": "Prueba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70256,
+          40.4165
+        ]
+      }
+    }
+  ]
+}
